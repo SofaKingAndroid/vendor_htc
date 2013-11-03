@@ -23,11 +23,12 @@ PRODUCT_COPY_FILES += \
         vendor/htc/jewel/proprietary/lib/libchromatix_s5k6a1gx_default_video.so:/system/lib/libchromatix_s5k6a1gx_default_video.so \
         vendor/htc/jewel/proprietary/lib/libchromatix_s5k6a1gx_preview.so:/system/lib/libchromatix_s5k6a1gx_preview.so \
         vendor/htc/jewel/proprietary/lib/libchromatix_s5k6a1gx_zsl.so:/system/lib/libchromatix_s5k6a1gx_zsl.so \
-                vendor/htc/jewel/proprietary/lib/libhtc_rilhook.so:/system/lib/libhtc_rilhook.so \
         vendor/htc/jewel/proprietary/lib/hw/nfc.default.so:/system/lib/hw/nfc.default.so \
         vendor/htc/jewel/proprietary/vendor/firmware/libpn544_fw.so:/system/vendor/firmware/libpn544_fw.so \
+        vendor/htc/jewel/proprietary/lib/libhtc_rilhook.so:/system/lib/libhtc_rilhook.so \
         vendor/htc/jewel/proprietary/lib/libqcci_legacy.so:/system/lib/libqcci_legacy.so \
         vendor/htc/jewel/proprietary/lib/libqmi_client_qmux.so:/system/lib/libqmi_client_qmux.so \
+        vendor/htc/jewel/proprietary/lib/libqmi_csvt_srvc.so:/system/lib/libqmi_csvt_srvc.so \
         vendor/htc/jewel/proprietary/lib/hw/sensors.default.so:/system/lib/hw/sensors.default.so \
         vendor/htc/jewel/proprietary/lib/libimu.so:/system/lib/libimu.so \
         vendor/htc/jewel/proprietary/lib/libmlplatform.so:/system/lib/libmlplatform.so \
